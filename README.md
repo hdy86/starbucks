@@ -23,7 +23,7 @@ github.io 배포 사이트 |
 
 ## Reference :
 
-- FastCampus - 한 번에 끝내는 프론트엔드 개발 초격차 패키지 Online. 강의 |
+- FastCampus - 한 번에 끝내는 프론트엔드 개발 초격차 패키지 Online |
   <a href="https://fastcampus.co.kr/dev_online_frontend" title="FastCampus" target="_blank">🔗 link</a>
 
 - Youtube Iframe API |
