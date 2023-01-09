@@ -43,7 +43,6 @@ github.io 배포 사이트 |
 
 - GSGP |
   <a href="https://greensock.com/docs/v2/" title="GSGP" target="_blank">🔗 link</a>
-  =======
 
 ### FastCampus - 한 번에 끝내는 프론트엔드 개발 초격차 패키지 Online. 강의
 
