@@ -1,5 +1,6 @@
 # Starbucks
 
+<<<<<<< HEAD
 스타벅스 웹 사이트 클론 코딩
 
 github.io 배포 사이트 |
@@ -43,3 +44,10 @@ github.io 배포 사이트 |
 
 - GSGP |
   <a href="https://greensock.com/docs/v2/" title="GSGP" target="_blank">🔗 link</a>
+=======
+### FastCampus - 한 번에 끝내는 프론트엔드 개발 초격차 패키지 Online. 강의
+
+<a href="https://fastcampus.co.kr/dev_online_frontend" title="FastCampus" target="_blank">FastCampus 사이트</a>
+<br/>
+<a href="https://hdy86.github.io/starbucks" title="My Starbucks" target="_blank">My Starbucks 사이트</a>
+>>>>>>> 3f6d38e3cd4fb071c9534e7c39a3d1b184ad3341
