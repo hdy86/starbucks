@@ -1,19 +1,3 @@
-/*----- HEADER search -----*/
-const searchEl = document.querySelector('.search');
-const searchInputEl = searchEl.querySelector('input');
-
-searchEl.addEventListener('click', function(){
-    searchInputEl.focus();
-});
-searchInputEl.addEventListener('focus', function(){
-    searchEl.classList.add('focused');
-    searchInputEl.setAttribute('placeholder', '통합검색');
-});
-searchInputEl.addEventListener('blur', function(){
-    searchEl.classList.remove('focused');
-    searchInputEl.setAttribute('placeholder', '');
-});
-
 /*----- HEADER badge, to-top -----*/
 const badgeEL = document.querySelector('header .badges');
 const toTopEl = document.querySelector('#to-top');
@@ -143,10 +127,5 @@ spyEls.forEach(function(spyEl){
         .setClassToggle(spyEl, 'show') // show 클래스 토글
         .addTo(new ScrollMagic.Controller()); // 동작할 수 있도록
 });
-
-
-/*----- FOOTER -----*/
-const thisYear = document.querySelector('.this-year');
-thisYear.textContent = new Date().getFullYear(); // 2022
 
 
